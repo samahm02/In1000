@@ -1,0 +1,12 @@
+Oppgave 1:
+Innkapsling er at vi kan bestemme hvilken data/instansevariabler og funksjonalitet/metoder
+vi vil at skal være tilgjengelig utenfor klassen/objektet.
+Dette bestemmer vi ved å gjøre noe i objektet privat og annet offentlig.
+det gjør det lettere å finne feil og hva som blir påvirket hvis man endrer programmet.
+
+2:
+Grensesnittet til en klasse er alle metodene som tilbys av objekter i en bestemt klasse
+
+3:
+en metode tar agrumenter og returnerer dem som en verdi,
+vi kaller på dem nesten som funksjoner og prosedyrer, men metodene må alltid kalles for et bestem objekt
